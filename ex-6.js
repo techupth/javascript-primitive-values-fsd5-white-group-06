@@ -3,4 +3,5 @@
 let totalParts = 13000;
 
 let literalSentence = `Total: ${totalParts} Machine parts`;
+console.log(literalSentence);
 
